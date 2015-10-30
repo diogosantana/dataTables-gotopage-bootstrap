@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+#casoFastSearch {
+   text-align: center;
+}
+
+#casoFastSearch::-webkit-input-placeholder {  
+   text-align: center;
+}
+
+#casoFastSearch::-moz-placeholder {  
+   text-align: center;
+}
+
+#casoFastSearch:-ms-input-placeholder {  
+   text-align: center;
+}
+
+.center-placeholder::-webkit-input-placeholder {
+   text-align: center;
+}
+
+.center-placeholder::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;  
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Goto Page - Demo</title>
+	
+    <link href="lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="lib/datatables/media/css/dataTables.bootstrap.min.css" rel="stylesheet">
+    
+    <link href="index.css" rel="stylesheet">
+</head>
+<body>
+	<header>
+		<div class="navbar-pgr">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-7 white mtb5 hidden-xs hidden-sm">
+						<h4 class="white">Goto Page - DataTables Plugin</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+	<nav class="navbar navbar-static-top navbar-default">
+		<ul class="nav navbar-nav">
+			<li><a id="gotoPainelControle" href="#">Painel de Controle</a></li>
+		</ul>
+	</nav>
+	
+	<div id="content" class="container-fluid">
+		<table id="demoTable" class="table table-striped table-bordered" style="width: 100%;"></table>
+	</div>
+	
+    <script src="lib/jquery/dist/jquery.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="lib/datatables/media/js/jquery.dataTables.js"></script>
+    <!-- <script src="lib/datatables/media/js/dataTables.bootstrap.js"></script> -->
+    <script src="dataTables.gotopage.bootstrap.js"></script>
+    
+    <script src="gotopage-demo.js"></script>
+	
+	<script type="text/javascript">
+		$(window).ready(gotopageDemo);
+	</script>
+</body>
+</html>

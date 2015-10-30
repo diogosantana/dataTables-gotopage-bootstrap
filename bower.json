@@ -1,0 +1,22 @@
+{
+  "name": "dataTables-gotopage-bootstrap",
+  "version": "1.0.0",
+  "authors": [
+    "Diogo Sant'Ana <diogosantana@gmail.com>"
+  ],
+  "description": "DataTables pagination plugin to add go to page button to bootstrap style. It is a mix of bootstrap and extjs plugin.",
+  "license": "MIT",
+  "homepage": "http://github.com/diogosantana/dataTables-gotopage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "datatables": "~1.10.9"
+  }
+}

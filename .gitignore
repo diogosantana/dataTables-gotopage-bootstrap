@@ -1,0 +1,7 @@
+node_modules
+lib
+**/*.js
+**/*.js.map
+/typings/
+.project
+.settings/
