@@ -1,6 +1,6 @@
 # Goto Page - DataTables Plugin
 
-This is a DataTables pagination plugin that combines Bootstrap 3 integration with ExtJS Pagination Style Plugin. It adds a "Goto Page" button between the paginations buttons.
+This is a DataTables pagination plugin that combines Bootstrap 3 integration with ExtJS Pagination Style Plugin. It adds a "Goto Page" button between the pagination buttons.
 
 [ExtJS Style](https://www.datatables.net/plug-ins/pagination/extjs)
 
