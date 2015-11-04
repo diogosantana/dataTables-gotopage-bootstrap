@@ -1,7 +1,7 @@
 node_modules
 lib
-**/*.js
-**/*.js.map
+gotopage-demo.js
+gotopage-demo.js.map
 /typings/
 .project
 .settings/
