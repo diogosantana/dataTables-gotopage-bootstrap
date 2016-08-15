@@ -223,6 +223,11 @@ DataTable.ext.renderer.pageButton.bootstrap = function ( settings, host, idx, bu
 										gotoPage(e);
 									}
 								})
+								.off('click')
+								.click(function (e) {
+									e.stopPropagation();
+									e.preventDefault();
+								})
 						).css('padding', '5px 12px');
 					}
 
