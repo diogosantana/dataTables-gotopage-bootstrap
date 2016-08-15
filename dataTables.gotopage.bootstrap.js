@@ -4,7 +4,7 @@
  */
 
 /**
- * Goto Page Plugin - Inspared by the combination of Bootstrap 3 Plugin and ExtJS Plugin.
+ * Goto Page Plugin - Inspired by the combination of Bootstrap 3 Plugin and ExtJS Plugin.
  * 
  * This plugin provide a goto page input like ExtJS Plugin into the Bootstrap 3 Plugin.
  * 
