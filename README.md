@@ -4,7 +4,7 @@ This is a DataTables pagination plugin that combines Bootstrap 3 integration wit
 
 [ExtJS Style](https://www.datatables.net/plug-ins/pagination/extjs)
 
-[Bootstrap styliung](https://www.datatables.net/examples/styling/bootstrap.html)
+[Bootstrap styling](https://www.datatables.net/examples/styling/bootstrap.html)
 
 See the demo: [index.html](index.html)
 
